@@ -12,7 +12,7 @@ class Member {
 		
 	}
 	// 인자 있는 생성자
-	public Member(int i, String name) {
+	public Member(int id, String name) {
 		this.id = id;
 		this.name = name;
 	}
